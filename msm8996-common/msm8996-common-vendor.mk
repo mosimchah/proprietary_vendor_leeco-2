@@ -487,11 +487,13 @@ PRODUCT_PACKAGES += \
     ims \
     uceShimService \
     CNEService \
+    SmartcardService \
     com.qualcomm.location \
     dpmserviceapp \
     qcrilmsgtunnel \
     TimeService \
     QtiTelephonyServicelibrary \
+    org.simalliance.openmobileapi \
     qcrilhook \
     qti-telephony-common
 PRODUCT_COPY_FILES += \
