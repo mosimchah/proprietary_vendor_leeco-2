@@ -362,6 +362,8 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/msm8996-common/proprietary/vendor/lib64/libmmQSM.so:system/vendor/lib64/libmmQSM.so \
     vendor/leeco/msm8996-common/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/leeco/msm8996-common/proprietary/vendor/lib64/libperipheral_client.so:system/vendor/lib64/libperipheral_client.so \
+    vendor/leeco/msm8996-common/proprietary/vendor/lib64/libprotobuf-cpp-fool.so:system/vendor/lib64/libprotobuf-cpp-fool.so \
+    vendor/leeco/msm8996-common/proprietary/vendor/lib64/libprotobuf-cpp-late.so:system/vendor/lib64/libprotobuf-cpp-late.so \
     vendor/leeco/msm8996-common/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
     vendor/leeco/msm8996-common/proprietary/vendor/lib64/libqcmaputils.so:system/vendor/lib64/libqcmaputils.so \
     vendor/leeco/msm8996-common/proprietary/vendor/lib64/libqdi.so:system/vendor/lib64/libqdi.so \
